@@ -6,11 +6,11 @@
 <p align="center"><b>I turn messy, real-world data into AI that works.</b></p>
 
 <div align="center">
-  <img src="skills.svg" alt="Toolbox: Python, scikit-learn, PyTorch, Transformers, NumPy, Pandas, OpenCV, PaddleOCR, OCR, FastAPI, Flask, PostgreSQL, SQL, Docker, Git, pytest" width="100%">
+  <img src="skills.svg" alt="Toolbox: Python, scikit-learn, TensorFlow, PyTorch, Transformers, LLMs, RAG, NumPy, Pandas, OpenCV, PaddleOCR, OCR, FastAPI, Flask, PostgreSQL, SQL, Docker, Git, pytest" width="100%">
 </div>
 
 ## Toolbox
-**Machine learning** · Python · scikit-learn · PyTorch · Hugging Face Transformers · Model evaluation
-**Computer vision & OCR** · OpenCV · PaddleOCR · Pillow
-**Data** · NumPy · Pandas · SQL · PostgreSQL
-**Backend & MLOps** · FastAPI · Flask · REST APIs · Docker · Git · pytest · SQLAlchemy
+- **Machine learning** · Python · scikit-learn · TensorFlow · PyTorch · Hugging Face Transformers · LLMs · RAG · Model evaluation
+- **Computer vision & OCR** · OpenCV · PaddleOCR · Pillow
+- **Data** · NumPy · Pandas · SQL · PostgreSQL
+- **Backend & MLOps** · FastAPI · Flask · REST APIs · Docker · Git · pytest · SQLAlchemy
