@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="header.svg" alt="Ayyanar Kullu, Machine Learning Engineer. Python, Computer Vision, OCR. Turning messy data into AI that works." width="100%">
+  <img src="header.svg" alt="Ayyanar Kullu, Machine Learning Engineer. Python, Computer Vision, OCR, LLM, RAG, Tensorflow. Turning messy data into AI that works." width="100%">
 </div>
 
 <h3 align="center">Hi, I'm Ayyanar 👋 &nbsp;·&nbsp; ML Engineer from India</h3>
